@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/gaudi/Documents/Projekte/Turbidignusb/TurbidiGnUSB_PCB/Turbidignusb.sch</source>
+    <date>Sun 07 Aug 2016 06:25:55 PM CEST</date>
+    <tool>Eeschema 4.1.0-alpha+201607190716+6983~46~ubuntu14.04.1-product</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Turbidignusb.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>ATTINY85-P</value>
+      <footprint>GaudiLabsFootPrints:DIP-8_W7.62mm</footprint>
+      <libsource lib="atmel" part="ATTINY85-P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D1DB7</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>USB_OTG</value>
+      <footprint>Connect:USB_Micro-B</footprint>
+      <libsource lib="conn" part="USB_OTG"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D1E4C</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1.5k</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D20AA</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>68</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D2122</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>68</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D2167</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>220</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D2190</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>Fuse_Holders_and_Fuses:Fuse_SMD1206_HandSoldering</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D238E</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>1k</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D24F2</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>Fuse_Holders_and_Fuses:Fuse_SMD1206_HandSoldering</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D25B0</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>LDR</value>
+      <footprint>GaudiLabsFootPrints:SolderWirePad_2x0_8_oval</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D6046</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>470k</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D6387</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LM385</value>
+      <footprint>GaudiLabsFootPrints:SO08</footprint>
+      <libsource lib="GaudiLabsPartsLibrary" part="LM385"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D7261</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>1k</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578D8451</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>GaudiLabsFootPrints:SolderWirePad_2x0_8_oval</footprint>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578DDAA5</tstamp>
+    </comp>
+    <comp ref="RV1">
+      <value>100k</value>
+      <footprint>Potentiometers:Potentiometer_Bourns_3296Y_3-8Zoll_Angular_ScrewUp</footprint>
+      <libsource lib="device" part="POT"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578DDB14</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578DE295</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>47k</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578DF07D</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>100k</value>
+      <footprint>GaudiLabsFootPrints:0805G</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578DF119</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_PUSH_SMALL_H</value>
+      <footprint>GaudiLabsFootPrints:PUSH_BUTTON_SMD</footprint>
+      <libsource lib="device" part="SW_PUSH_SMALL_H"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578DF7D5</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>3.3V</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="ZENERsmall"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578E586C</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>3.3V</value>
+      <footprint>Capacitors_SMD:C_1206_HandSoldering</footprint>
+      <libsource lib="device" part="ZENERsmall"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578E595F</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_02X03</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x03</footprint>
+      <libsource lib="conn" part="CONN_02X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>578DE597</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="atmel" part="ATTINY25-P">
+      <aliases>
+        <alias>ATTINY45-P</alias>
+        <alias>ATTINY85-P</alias>
+      </aliases>
+      <description>PDIP8, 2k Flash, 128B SRAM, 128B EEPROM, Debug Wire</description>
+      <docs>http://www.atmel.com/images/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ATTINY25-P</field>
+        <field name="Footprint">DIP8</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PB5(~RESET~/dW/ADC0/PCINT5)" type="BiDi"/>
+        <pin num="2" name="PB3(XTAL1/CLKI/OC1B/ADC3/PCINT3)" type="BiDi"/>
+        <pin num="3" name="PB4(XTAL2/CLKO/OC1B/ADC2/PCINT4)" type="BiDi"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="PB0(MOSI/DI/SDA/AIN0/OC0A/OC1A/AREF/PCINT0)" type="BiDi"/>
+        <pin num="6" name="PB1(MISO/DO/AIN1/OC0B/OC1A/PCINT1)" type="BiDi"/>
+        <pin num="7" name="PB2(SCK/USCK/SCL/T0/INT0/ADC1/PCINT2)" type="BiDi"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="CONN_02X03">
+      <description>Connector, double row, 02x03</description>
+      <footprints>
+        <fp>Pin_Header_Straight_2X03</fp>
+        <fp>Pin_Header_Angled_2X03</fp>
+        <fp>Socket_Strip_Straight_2X03</fp>
+        <fp>Socket_Strip_Angled_2X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <footprints>
+        <fp>LED-*</fp>
+        <fp>LED_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="GaudiLabsPartsLibrary" part="LM385">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM385</field>
+      </fields>
+      <pins>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="8" name="+" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="POT">
+      <description>Potentionmetre</description>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">POT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="SW_PUSH_SMALL_H">
+      <description>Button</description>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_PUSH_SMALL_H</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="USB_OTG">
+      <description>USB micro/mini connector</description>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">USB_OTG</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_out"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="ID" type="power_in"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="ZENERsmall">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ZENERsmall</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="atmel">
+      <uri>/usr/share/kicad/library/atmel.lib</uri>
+    </library>
+    <library logical="GaudiLabsPartsLibrary">
+      <uri>/home/gaudi/Documents/Projekte/KiCadLibrary/GaudiLabsPartsLibrary.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1"/>
+      <node ref="R5" pin="2"/>
+      <node ref="R1" pin="2"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="2" name="Net-(D5-Pad1)">
+      <node ref="P1" pin="3"/>
+      <node ref="R4" pin="2"/>
+      <node ref="D5" pin="1"/>
+    </net>
+    <net code="3" name="MISO">
+      <node ref="P2" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="4" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="RV1" pin="3"/>
+    </net>
+    <net code="5" name="MOSI">
+      <node ref="P2" pin="4"/>
+      <node ref="R6" pin="2"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="6" name="SCK">
+      <node ref="SW1" pin="1"/>
+      <node ref="U1" pin="7"/>
+      <node ref="P2" pin="3"/>
+    </net>
+    <net code="7" name="RESET">
+      <node ref="U1" pin="1"/>
+      <node ref="R5" pin="1"/>
+      <node ref="P2" pin="5"/>
+    </net>
+    <net code="8" name="Net-(D1-Pad2)">
+      <node ref="R6" pin="1"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="9" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="10" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="11" name="Net-(R4-Pad1)">
+      <node ref="U1" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="12" name="VCC">
+      <node ref="R7" pin="2"/>
+      <node ref="R8" pin="2"/>
+      <node ref="P2" pin="2"/>
+      <node ref="U1" pin="8"/>
+      <node ref="P1" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="13" name="GND">
+      <node ref="R10" pin="1"/>
+      <node ref="U2" pin="4"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D5" pin="2"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="P2" pin="6"/>
+      <node ref="U1" pin="4"/>
+      <node ref="D1" pin="1"/>
+      <node ref="R3" pin="1"/>
+      <node ref="P1" pin="5"/>
+    </net>
+    <net code="14" name="Net-(R10-Pad2)">
+      <node ref="R9" pin="1"/>
+      <node ref="U2" pin="5"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="15" name="REF">
+      <node ref="R8" pin="1"/>
+      <node ref="U2" pin="8"/>
+      <node ref="R9" pin="2"/>
+      <node ref="RV1" pin="1"/>
+      <node ref="RV1" pin="2"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="16" name="Net-(R2-Pad1)">
+      <node ref="U1" pin="3"/>
+      <node ref="R3" pin="2"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="17" name="Net-(P1-Pad4)">
+      <node ref="P1" pin="4"/>
+    </net>
+    <net code="18" name="Net-(P1-Pad6)">
+      <node ref="P1" pin="6"/>
+    </net>
+  </nets>
+</export>
