@@ -14,6 +14,10 @@ https://github.com/TeenyRiot
 
 ![TurbiSiech final](https://github.com/GenericLab/TurbiGnUSB/raw/master/TurbiGnUSB_august2016.jpg)
 
+# Calibrati it!
+
+![TurbiSiech calibration](https://github.com/GenericLab/TurbiGnUSB/raw/master/TurbiGnUSB_calibrationNitrite.jpg)
+
 # Use it! 
 
 The TurbiGnUSB is detected as a keyboard. The LED inside the optical chamber is always on. press the button and the device starts typing the value into your laptop, use a spreadsheet or notepad to record the measurements.
